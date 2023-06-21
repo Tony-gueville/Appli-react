@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Appli-react/static/css/main.c892e9fc.css",
+    "main.js": "/Appli-react/static/js/main.5007484c.js",
+    "static/media/main.jpg": "/Appli-react/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/Appli-react/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/Appli-react/index.html",
+    "main.c892e9fc.css.map": "/Appli-react/static/css/main.c892e9fc.css.map",
+    "main.5007484c.js.map": "/Appli-react/static/js/main.5007484c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c892e9fc.css",
+    "static/js/main.5007484c.js"
+  ]
+}
